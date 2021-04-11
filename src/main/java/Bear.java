@@ -5,4 +5,8 @@
 public class Bear {
 
 
+    public static void main(String[] args) {
+
+    }
+
 }
